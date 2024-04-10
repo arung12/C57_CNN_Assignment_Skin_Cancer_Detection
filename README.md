@@ -45,7 +45,7 @@ This Assignment will aim to build a CNN based model which can accurately detect 
  9. Verified the dataset for class imbalance and found that actually seborrheic keratosis, dermatofibrom, actinic keratosis has least samples and pigmented benign keratosis, Melanoma has more sample
 10. handling the class imbalance by adding 500 samples to each of them using an augmentor 
 11. Created a new model on the updated dataset with dropouts, so we can close the gap between training and validation accuracy and achieved  a training accuracy of 89% and validation accuracy of 86%
-12. Using the above model verify the predictions on some random images
+12. Using the above model verified the predictions on some random images
 
 
 ## Technologies Used
